@@ -46,7 +46,7 @@ HTML = '''
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Mega Azure Apppppppppppppppppppppppppppppppppppppppppppppppppp</title>
+    <title>My Mega Azure Appppp23423424234242424p</title>
     <style>
         body { font-family: Arial; max-width: 600px; margin: 50px auto; padding: 20px; background: #f0f4f8; }
         h1 { color: #0078d4; }
